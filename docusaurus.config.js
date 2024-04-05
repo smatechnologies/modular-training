@@ -3,7 +3,7 @@ module.exports = {
   title: 'SMA Technologies Help',
   tagline: 'Modular Training',
   url: 'https://help.smatechnologies.com',
-  baseUrl: '/',
+  baseUrl: '/training/modular-training/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
