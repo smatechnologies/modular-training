@@ -1,8 +1,11 @@
 ---
-sidebar_label: 'About Jobs'
+sidebar_label: 'Jobs'
+hide_title: 'true'
 ---
 
-# About Jobs
+# Jobs
+
+### Basic Information Requirements
 
 OpCon needs some basic information to run a process:
 
@@ -11,7 +14,6 @@ OpCon needs some basic information to run a process:
 * User associated with execution
 * What program/script (Command Line) will OpCon run
 
-
 ### Job Type
 
 * **Job Type** defines the type of process to run
@@ -19,16 +21,14 @@ OpCon needs some basic information to run a process:
 * Only Job Types configured within your OpCon Environment are shown
 * Once a Job Type is selected, parameters specific to the chosen technical environment are displayed
 
-### Windows Job Type Definition Details
+### Job Documentation
 
-Windows Job Type parameters must be set:
+The links below provide concept documentation for creating and using Jobs in OpCon.
 
-* Primary Machine
-* User Id
-* Command Line
+[Adding Master Jobs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MasterJobs/Adding-Master-Jobs)
 
-### Job Details - Solution Manager
+[Job Documentation](https://help.smatechnologies.com/opcon/core/objects/jobs)
 
-<!--
-![](../static/imgbasic/sm-job-type-details.png)
--->
+### Practice
+
+<a href="practice-create-a-job" target="_blank">Practice - Create a Job</a>

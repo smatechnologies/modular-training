@@ -1,12 +1,9 @@
 ---
 sidebar_label: 'Tags'
+hide_title: 'true'
 ---
 
 # Tags
-
-<!--
-![Picture25](../static/imgbasic/Picture25.png)
--->
 
 * Tags are labels assigned to Jobs 
   * Allow filtered Operations views
@@ -16,22 +13,24 @@ sidebar_label: 'Tags'
 
 ### Tag Manager/Add a Job Tag
 
+
+
 #### Select Add to Create a New Tag 
 
-<!--
-![SM Tags](../static/imgbasic/sm-tags.png)
--->
+![](../static/img/sm-tags-6f44ffef40442e5ddc6459f377381ca2.png)
 
 #### Enter a Tag Name
 
-<!--
-![SM Tag Add](../static/imgbasic/sm-tag-add.png)
--->
+![](../static/img/sm-tag-add-db375e0fa8f0fe46f7710a9195c9006e.png)
 
 #### Select Jobs to Tag
 
-* Click the Filter bar to populate a list of available Schedules and Jobs
+![alt text](../static/img/sm-tag-add-list-6acfa7c6e9f67c474d45707bec9152ef.png)
 
-<!--
-![SM Tag Add List](../static/imgbasic/sm-tag-add-list.png)
--->
+### Tag Documentation
+
+[Tag Concept Documentation](https://help.smatechnologies.com/opcon/core/job-components/tags)
+
+### Practice
+
+<a href="practice-create-a-tag" target="_blank">Practice - Create a Tag</a>
