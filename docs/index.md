@@ -12,7 +12,6 @@ The content contained in this repository provides a self-guided basic training p
 * Practice activities 
 * Walkthrough videos
 
-
 :::info Note 
 
 The **Practice** activities within this training assume users have an OpCon environment in which they can be completed.
