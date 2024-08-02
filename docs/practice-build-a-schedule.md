@@ -24,4 +24,4 @@ Build a created Schedule as Released for Today only. View to confirm that the Sc
 
 ### Video Walkthrough
 
-[![Build a Schedule](../static/img/build-a-schedule.png)](../static/video/build-a-schedule.mp4)
+[![Build a Schedule](../static/img/build-a-schedule.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eaqm_dC-oM9KjKTU-67pS68BnHLGiv3ReQMDKTnYp5_JsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4LPGqF)

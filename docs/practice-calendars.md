@@ -45,4 +45,4 @@ To update the Master Holiday Calendar and create a separate calendar with custom
 
 ### Video Walkthrough
 
-[![Calendars](../static/img/calendars.png)](../static/video/calendars.mp4)
+[![Calendars](../static/img/calendars.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EZSq7sOlfL1DqHRTcOThGHkBk7Ve1L5RslVyYX2hfhN1gA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RCWqgT)

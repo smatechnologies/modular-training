@@ -25,4 +25,4 @@ Create a **REQUIRES** Dependency.
 
 ### Video Walkthrough
 
-[![Create a Frequency](../static/img/create-a-job-dependency.png)](../static/video/create-a-job-dependency.mp4)
+[![Create a Job Dependency](../static/img/create-a-job-dependency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbAuaNdjMrZCvFOOYZR_MO0BqzUP4I5V71sgLrUFyrcZBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AHtkoB)

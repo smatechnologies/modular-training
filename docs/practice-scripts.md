@@ -61,4 +61,4 @@ Use an embedded script to create a folder.
 
 ### Video Walkthrough
 
-[![Embedded Scripts](../static/img/scripts.png)](../static/video/scripts.mp4)
+[![Embedded Scripts](../static/img/scripts.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EfcDkQVQFNdAu-RqbXVTJT8BjE1W1YGpSd8_1_z2xRzqcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=y9ovgM)

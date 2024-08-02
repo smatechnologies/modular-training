@@ -66,4 +66,4 @@ To use a Resource to prevent multiple Container jobs from kicking off at the sam
 
 ### Video Walkthrough
 
-[![SubSchedules](../static/img/subschedules.png)](../static/video/subschedules.mp4)
+[![SubSchedules](../static/img/subschedules.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EVEU7dfRWWBLi7h33YGK8koBAs81tt7Xj7GAlbDrEbxFuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ULdzUG)

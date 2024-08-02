@@ -40,4 +40,4 @@ The Forecast screen should show the last working day of every month as green. No
 
 ### Video Walkthrough
 
-[![Create a Frequency](../static/img/create-a-frequency.png)](../static/video/create-a-frequency.mp4)
+[![Create a Frequency](../static/img/create-a-frequency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EX3UVyp5CQtOqhurx5EYqr8Bl0ZFmwY9X7tKNLnDjZPTLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p0IQ4F)

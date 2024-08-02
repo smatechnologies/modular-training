@@ -65,4 +65,4 @@ Your updated **Command Line** should now look like:
 
 ### Video Walkthrough
 
-[![Create a Global Property](../static/img/create-a-global-property.png)](../static/video/create-a-global-property.mp4)
+[![Create a Global Property](../static/img/create-a-global-property.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EZEaTEDG7_VGmuW6f2YT-JYBDWPeBozaCmQ035l3LmRPjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iZhz4R)

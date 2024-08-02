@@ -55,4 +55,4 @@ Use File Arrival to detect the arrival of a file.
 
 ### Video Walkthrough
 
-[![File Arrival](../static/img/file-arrival.png)](../static/video/file-arrival.mp4)
+[![File Arrival](../static/img/file-arrival.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eatr4YcXitNArCGfw5qq-aYBtpjnudcmGkphAxCrgFDIVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgwHon)

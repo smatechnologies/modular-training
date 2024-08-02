@@ -103,4 +103,4 @@ timeout /t 10
 
 ### Video Walkthrough
 
-[![Create A Resource](../static/img/create-a-resource.png)](../static/video/create-a-resource.mp4)
+[![Create A Resource](../static/img/create-a-resource.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Ea82mw9zZTpCvcs92oDf5vABOsjNNjVhplHXty-I3Mj9nQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vZhehf)

@@ -76,4 +76,4 @@ The file being searched in the table below for by the File Arrival job resides i
 
 ### Practice
 
-<a href="practice-file-arrival" target="_blank">Practice - File Arrival</a>
+[![File Arrival](../static/img/file-arrival.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eatr4YcXitNArCGfw5qq-aYBtpjnudcmGkphAxCrgFDIVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgwHon)

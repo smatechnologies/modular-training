@@ -156,4 +156,4 @@ Once all the dependencies and events have been configured, your workflow should 
 
 ### Video Walkthrough
 
-[![Create A Threshold](../static/img/create-a-threshold.png)](../static/video/create-a-threshold.mp4)
+[![Create A Threshold](../static/img/create-a-threshold.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EaLBxeK8-ldPoUjaLkyF6lEBMoSvClDnXo8cUW2ytP6IUQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9ujMIM)
