@@ -28,7 +28,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Machine](../static/img/create-a-machine.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EQ42_awqYo9Inv3YznEcRB0BuPlNO_mniDo-eXd4ppXfzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SSi1gF)
 
-[Information](../modular-training/agents-machines)
+[Information](/training/modular-training/agents-machines)
 
 </div>
 
@@ -36,7 +36,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Schedule](../static/img/create-a-schedule.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbFcFlL7IslIvR8tKo8B5wQBMr4dph_qrPTM6xRFh8wLsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=utn3hn)
 
-[Information](../modular-training/schedules)
+[Information](/training/modular-training/schedules)
 
 </div>
 
@@ -44,7 +44,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Job](../static/img/create-a-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EeAwW_dv9CVMldkzxBaZfeIBL1vrCEmYChpQQMAFCdq43w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O31eCt)
 
-[Information](../modular-training/jobs)
+[Information](/training/modular-training/jobs)
 
 </div>
 
@@ -52,7 +52,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Null Job](../static/img/create-a-null-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eeb6So__CaRGigyMyrqeBD4ByvcKnZWmDn1CnvLmPCgBiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jFPbdV)
 
-[Information](../modular-training/null-jobs)
+[Information](/training/modular-training/null-jobs)
 
 </div>
 
@@ -60,7 +60,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Frequency](../static/img/create-a-frequency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EX3UVyp5CQtOqhurx5EYqr8Bl0ZFmwY9X7tKNLnDjZPTLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p0IQ4F)
 
-[Information](../modular-training/frequency-definition)
+[Information](/training/modular-training/frequency-definition)
 
 </div>
 
@@ -68,7 +68,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Build a Schedule](../static/img/build-a-schedule.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eaqm_dC-oM9KjKTU-67pS68BnHLGiv3ReQMDKTnYp5_JsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4LPGqF)
 
-[Information](../modular-training/schedule-build)
+[Information](/training/modular-training/schedule-build)
 
 </div>
 
@@ -76,7 +76,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Job Dependency](../static/img/create-a-job-dependency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbAuaNdjMrZCvFOOYZR_MO0BqzUP4I5V71sgLrUFyrcZBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AHtkoB)
 
-[Information](../modular-training/dependencies)
+[Information](/training/modular-training/dependencies)
 
 </div>
 
@@ -84,7 +84,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Tag](../static/img/create-a-tag.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EWICgCY3oQdDlJe_u0P_meABb6L7qBhkFo1rds5Q8iLW9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jh6nS4)
 
-[Information](../modular-training/tags)
+[Information](/training/modular-training/tags)
 
 </div>
 
@@ -98,7 +98,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Escalation Manager](../static/img/escalation-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbsQDquBK31Dr3xu1Hg9ZN8B-xfHnwLgVuOBcG40n3GWPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bxBLvk)
 
-[Information](../modular-training/escalation-manager)
+[Information](/training/modular-training/escalation-manager)
 
 </div>
 
@@ -106,7 +106,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Notification Manager](../static/img/notification-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/ESAVRf7AJJJFoDdYt0KMKDcByC8BH-4SfIHubZP19nG28w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sAlXh2)
 
-[Information](../modular-training/notification-manager)
+[Information](/training/modular-training/notification-manager)
 
 </div>
 
@@ -120,7 +120,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Calendars](../static/img/calendars.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EZSq7sOlfL1DqHRTcOThGHkBk7Ve1L5RslVyYX2hfhN1gA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RCWqgT)
 
-[Information](../modular-training/calendars)
+[Information](/training/modular-training/calendars)
 
 </div>
 
@@ -128,7 +128,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create a Global Property](../static/img/create-a-global-property.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EZEaTEDG7_VGmuW6f2YT-JYBDWPeBozaCmQ035l3LmRPjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iZhz4R)
 
-[Information](../modular-training/global-properties)
+[Information](/training/modular-training//global-properties)
 
 </div>
 
@@ -136,7 +136,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Embedded Scripts](../static/img/scripts.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EfcDkQVQFNdAu-RqbXVTJT8BjE1W1YGpSd8_1_z2xRzqcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=y9ovgM)
 
-[Information](../modular-training/scripts)
+[Information](/training/modular-training/scripts)
 
 </div>
 
@@ -144,7 +144,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create an Event](../static/img/create-an-event.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EcdBcMJOuilCuJnyAdmwPkgBd3hLtfQR2C10emhe4bdTpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ap6Fqp)
 
-[Information](../modular-training/events)
+[Information](/training/modular-training/events)
 
 </div>
 
@@ -152,7 +152,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create A Resource](../static/img/create-a-resource.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Ea82mw9zZTpCvcs92oDf5vABOsjNNjVhplHXty-I3Mj9nQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vZhehf)
 
-[Information](../modular-training/resources)
+[Information](/training/modular-training/resources)
 
 </div>
 
@@ -160,7 +160,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![Create A Threshold](../static/img/create-a-threshold.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EaLBxeK8-ldPoUjaLkyF6lEBMoSvClDnXo8cUW2ytP6IUQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9ujMIM)
 
-[Information](../modular-training/thresholds)
+[Information](/training/modular-training/thresholds)
 
 </div>
 
@@ -174,7 +174,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![SubSchedules](../static/img/subschedules.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EVEU7dfRWWBLi7h33YGK8koBAs81tt7Xj7GAlbDrEbxFuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ULdzUG)
 
-[Information](../modular-training/subschedules)
+[Information](/training/modular-training/subschedules)
 
 </div>
 
@@ -182,7 +182,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 [![File Arrival](../static/img/file-arrival.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eatr4YcXitNArCGfw5qq-aYBtpjnudcmGkphAxCrgFDIVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgwHon)
 
-[Information](../modular-training/file-arrival)
+[Information](/training/modular-training/file-arrival)
 
 </div>
 
