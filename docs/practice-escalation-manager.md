@@ -137,4 +137,4 @@ There are alternatives when acknowledging an escalation. You can also:
 
 ### Video Walkthrough
 
-[![Escalation Manager](../static/img/escalation-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbsQDquBK31Dr3xu1Hg9ZN8B-xfHnwLgVuOBcG40n3GWPA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bxBLvk)
+[![Escalation Manager](../static/img/escalation-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbsQDquBK31Dr3xu1Hg9ZN8B-xfHnwLgVuOBcG40n3GWPA?e=et0kkl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

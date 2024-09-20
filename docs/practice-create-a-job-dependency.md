@@ -25,4 +25,4 @@ Create a **REQUIRES** Dependency.
 
 ### Video Walkthrough
 
-[![Create a Job Dependency](../static/img/create-a-job-dependency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbAuaNdjMrZCvFOOYZR_MO0BqzUP4I5V71sgLrUFyrcZBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AHtkoB)
+[![Create a Job Dependency](../static/img/create-a-job-dependency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbAuaNdjMrZCvFOOYZR_MO0BqzUP4I5V71sgLrUFyrcZBg?e=gFeuCg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

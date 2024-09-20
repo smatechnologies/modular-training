@@ -24,4 +24,4 @@ Create and save a Schedule named **Practice Schedule 1**.
 
 ### Video Walkthrough
 
-[![Create a Schedule](../static/img/create-a-schedule.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbFcFlL7IslIvR8tKo8B5wQBMr4dph_qrPTM6xRFh8wLsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=utn3hn)
+[![Create a Schedule](../static/img/create-a-schedule.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EbFcFlL7IslIvR8tKo8B5wQBMr4dph_qrPTM6xRFh8wLsg?e=niZOAT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

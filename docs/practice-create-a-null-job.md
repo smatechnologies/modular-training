@@ -45,4 +45,4 @@ To successfully create a NULL job.
 
 ### Video Walkthrough
 
-[![Create A Threshold](../static/img/create-a-null-job.png)][![Create a Null Job](../static/img/create-a-null-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eeb6So__CaRGigyMyrqeBD4ByvcKnZWmDn1CnvLmPCgBiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jFPbdV)
+[![Create a Null Job](../static/img/create-a-null-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eeb6So__CaRGigyMyrqeBD4ByvcKnZWmDn1CnvLmPCgBiA?e=yOaz3W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

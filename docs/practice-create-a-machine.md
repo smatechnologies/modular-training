@@ -52,4 +52,4 @@ The settings used in the Practice activity are meant as examples. Your settings 
 
 ### Video Walkthrough
 
-[![Create a Machine](../static/img/create-a-machine.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EQ42_awqYo9Inv3YznEcRB0BuPlNO_mniDo-eXd4ppXfzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SSi1gF)
+[![Create a Machine](../static/img/create-a-machine.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EQ42_awqYo9Inv3YznEcRB0BuPlNO_mniDo-eXd4ppXfzg?e=XLW4EV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
