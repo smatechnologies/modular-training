@@ -33,4 +33,4 @@ Once the Jobs are tagged, view the Tag assignments in **Tag Manager**.
 
 ### Video Walkthrough
 
-[![Create a Tag](../static/img/create-a-tag.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EWICgCY3oQdDlJe_u0P_meABb6L7qBhkFo1rds5Q8iLW9A?e=z0sCEF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Create a Tag](../static/img/create-a-tag.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EWICgCY3oQdDlJe_u0P_meABb6L7qBhkFo1rds5Q8iLW9A?e=OB89Nc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
