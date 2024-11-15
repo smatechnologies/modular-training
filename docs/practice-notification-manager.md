@@ -52,4 +52,4 @@ Notice that the new group has been added to the top section of the Manage Groups
 
 ### Video Walkthrough
 
-[![Notification Manager](../static/img/notification-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/ESAVRf7AJJJFoDdYt0KMKDcByC8BH-4SfIHubZP19nG28w?e=tscUZ1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Notification Manager](../static/img/notification-manager.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/ESAVRf7AJJJFoDdYt0KMKDcByC8BH-4SfIHubZP19nG28w?e=oWSjk9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

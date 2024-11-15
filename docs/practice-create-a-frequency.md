@@ -40,4 +40,4 @@ The Forecast screen should show the last working day of every month as green. No
 
 ### Video Walkthrough
 
-[![Create a Frequency](../static/img/create-a-frequency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EX3UVyp5CQtOqhurx5EYqr8Bl0ZFmwY9X7tKNLnDjZPTLg?e=ifcuLi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Create a Frequency](../static/img/create-a-frequency.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EX3UVyp5CQtOqhurx5EYqr8Bl0ZFmwY9X7tKNLnDjZPTLg?e=NCCbhh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
