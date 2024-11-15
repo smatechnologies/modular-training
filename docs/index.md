@@ -3,7 +3,21 @@ slug: '/'
 sidebar_label: 'Training Walkthroughs'
 ---
 
-# Self-Guided Basic Training
+# Self-Guided OpCon Basic Training
+
+## Overview
+
+**OpCon** (Operations Console Cross-Platform Scheduler) is an enterprise-wide, heterogeneous workflow automation and orchestration platform.
+
+* OpCon can be utilized to create, schedule, and execute tasks for your processes. 
+    * The most basic objects implemented to execute processes are the **Schedule** and **Job**.
+    * The creation of a **Schedule** helps to identify a group of one or more **Jobs** (tasks) that can be executed.  
+* OpCon allows for **Jobs** to be grouped together in workflows with **Dependencies** and **Events** to trigger desired behaviors.
+    * **Jobs** can be created with any **Frequency** (specified dates, times, and intervals to run).   
+* In OpCon, a "master" **Schedule** and "master" **Job** create the framework for future iterations of the same Schedule and Job to run daily based on a configured **Frequency** and/or **Calendar**.  
+* When a **Schedule** and **Job** have been created, the final step is the **Build** process, which creates a data field indicating that the **Schedule** and **Job** will run based on the **Frequency** assigned.
+
+---
 
 The content contained in this repository provides a self-guided basic training program for SMA OpCon. The training covers important concepts with the following tools:
 
@@ -26,7 +40,7 @@ The **Practice** activities within this training assume users have an OpCon envi
 
 <div class="grid-item">
 
-[![Create a Machine](../static/img/create-a-machine.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EQ42_awqYo9Inv3YznEcRB0BuPlNO_mniDo-eXd4ppXfzg?e=4gTgft&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Create a Machine](../static/img/create-a-machine.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EQ42_awqYo9Inv3YznEcRB0BuPlNO_mniDo-eXd4ppXfzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4cisf)
 
 [Information](/training/modular-training/agents-machines)
 

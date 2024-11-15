@@ -27,10 +27,11 @@ hide_title: 'true'
 
 ![alt text](../static/img/sm-tag-add-list-6acfa7c6e9f67c474d45707bec9152ef.png)
 
-### Tag Documentation
+### Practice Activity
 
-[Tag Concept Documentation](https://help.smatechnologies.com/opcon/core/job-components/tags)
+**<a href="practice-create-a-tag" target="_blank">Practice - Create a Tag</a>**
 
-### Practice
+### For More Information
 
-<a href="practice-create-a-tag" target="_blank">Practice - Create a Tag</a>
+**[Tag Concept Documentation](https://help.smatechnologies.com/opcon/core/job-components/tags)**
+

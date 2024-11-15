@@ -41,22 +41,22 @@ hide_title: 'true'
 * Only one Escalation Rule can be set up per Notification
 * Escalation Rules can only be set to emails at this time
 
+### Practice Activity
 
-### Escalation Manager Documentation
+**<a href="practice-escalation-manager" target="_blank">Escalation Manager</a>**
 
-[Escalation](https://help.smatechnologies.com/opcon/core/notifications/Escalation)
+### For More Information
 
-[Notification Trigger](https://help.smatechnologies.com/opcon/core/notifications/Notification-Triggers)
+**[Escalation](https://help.smatechnologies.com/opcon/core/notifications/Escalation)**
 
-[Notification Configuration](https://help.smatechnologies.com/opcon/core/notifications/Notification-Configuration)
+**[Notification Trigger](https://help.smatechnologies.com/opcon/core/notifications/Notification-Triggers)**
 
-[Managing Escalation Manager](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Escalation-Manager)
+**[Notification Configuration](https://help.smatechnologies.com/opcon/core/notifications/Notification-Configuration)**
 
-[Managing Escalation Rules](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Managing-Escalation-Rules)
+**[Managing Escalation Manager](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Escalation-Manager)**
 
-[Managing Escalation Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Managing-Escalation-Groups)
+**[Managing Escalation Rules](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Managing-Escalation-Rules)**
+
+**[Managing Escalation Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/EscalationManager/Managing-Escalation-Groups)**
 
 
-### Practice
-
-<a href="practice-escalation-manager" target="_blank">Practice - Escalation Manager</a>

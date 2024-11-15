@@ -133,16 +133,17 @@ Example:
 Machine Instance Properties are case sensitive
 ::::  
 
-### Property Documentation
+### Practice Activity
 
-[Properties Documentation](https://help.smatechnologies.com/opcon/core/objects/properties)
+**<a href="practice-create-a-global-property" target="_blank">Create a Global Property</a>**
 
-[Using Properties for Automation](https://help.smatechnologies.com/opcon/core/objects/using-properties)
+### For More Information
 
-[Defining Properties](https://help.smatechnologies.com/opcon/core/objects/defining-properties)
+**[Properties Documentation](https://help.smatechnologies.com/opcon/core/objects/properties)**
 
-[Managing Global Properties Documentation](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Managing-Global-Properties)
+**[Using Properties for Automation](https://help.smatechnologies.com/opcon/core/objects/using-properties)**
 
-### Practice
+**[Defining Properties](https://help.smatechnologies.com/opcon/core/objects/defining-properties)**
 
-<a href="practice-create-a-global-property" target="_blank">Practice - Create a Global Property</a>
+**[Managing Global Properties Documentation](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Managing-Global-Properties)**
+

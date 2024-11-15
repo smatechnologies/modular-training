@@ -51,16 +51,18 @@ hide_title: 'true'
 
 ![alt text](../static/img/sm-threshold-email-result-f592ca84531c13f87c811536ef85b9f5.png)
 
-### Threshold Documentation
+### Practice Activity
 
-[OpCon Objects - Thresholds](https://help.smatechnologies.com/opcon/core/objects/thresholds)
+**<a href="practice-create-a-threshold" target="_blank">Create a Threshold</a>**
 
-[Threshold/Resource Updates](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-updates)
+### For More Information
 
-[Treshold/Resource Dependencies](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-dependencies)
+**[OpCon Objects - Thresholds](https://help.smatechnologies.com/opcon/core/objects/thresholds)**
 
-[Solution Manager - Thresholds](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Thresholds/)
+**[Threshold/Resource Updates](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-updates)**
 
-### Practice
+**[Treshold/Resource Dependencies](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-dependencies)**
 
-<a href="practice-create-a-threshold" target="_blank">Practice - Create a Threshold</a>
+**[Solution Manager - Thresholds](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Thresholds/)**
+
+

@@ -55,14 +55,15 @@ Beginning with OpCon 20.0 - External Event Passwords must be created by generati
 
 ![](../static/img/PictureExternalTokenSM-cdaa186e63681c9555be937ab6ed853e.png)
 
-### Events Documentation
+### Practice Activity
 
-[Job Components - Events](https://help.smatechnologies.com/opcon/core/job-components/events)
+**<a href="practice-create-an-event" target="_blank">Create an Event</a>**
 
-[OpCon Events](https://help.smatechnologies.com/opcon/core/events/introduction)
+### For More Information
 
-[Event Types List](https://help.smatechnologies.com/opcon/core/events/types)
+**[Job Components - Events](https://help.smatechnologies.com/opcon/core/job-components/events)**
 
-### Practice
+**[OpCon Events](https://help.smatechnologies.com/opcon/core/events/introduction)**
 
-<a href="practice-create-an-event" target="_blank">Practice - Create an Event</a>
+**[Event Types List](https://help.smatechnologies.com/opcon/core/events/types)**
+

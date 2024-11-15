@@ -37,14 +37,13 @@ Always start with **“When to Schedule”**
 
 ![alt text](../static/img/SM_Frequency_Manager_Wizard_Main-d68bb55f38742adb5a1b2960a3887e86.png)
 
+### Practice Activity
 
+**<a href="practice-create-a-frequency" target="_blank">Create a Frequency</a>**
 
-### Frequency Documentation
+### For More Information
 
-[Frequency Definition Documentation](https://help.smatechnologies.com/opcon/core/automation-concepts/frequencies#frequency-definition)
+**[Frequency Definition Documentation](https://help.smatechnologies.com/opcon/core/automation-concepts/frequencies#frequency-definition)**
 
-[Frequency Documentation](https://help.smatechnologies.com/opcon/core/job-components/frequency)
+**[Frequency Documentation](https://help.smatechnologies.com/opcon/core/job-components/frequency)**
 
-### Practice
-
-<a href="practice-create-a-frequency" target="_blank">Practice - Create a Frequency</a>

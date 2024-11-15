@@ -5,18 +5,19 @@ hide_title: 'true'
 
 # Agents/Machines
 
-### Definitions
+In OpCon, a **Machine** is a representation of an Agent **(LSAM)** - **LOCAL SCHEDULE ACTIVITY MONITOR**  in the OpCon database.
 
-* A Representation of an Agent **(LSAM)** in OpCon’s database
-* LSAM stands for “**Local Schedule Activity Monitor**”
-* LSAM/Agent listens for commands from OpCon’s main engine kicking off and monitoring specified tasks
-* Machines define where a task will be run
+- All systems with an LSAM installed must be defined as a machine in the OpCon database
+  - Once a machine is defined in the database, the SAM and supporting services can begin scheduling jobs on it
+- The LSAM/Agent listens for commands from OpCon’s main engine to kick off and monitor specified tasks
+- Machines define where a task will be run
+
 
 #### Machine Status
 
-* Displays Connection Status of all Machines configured in the OpCon database
+- **Machine Status** displays the Connection Status of all Machines configured in the OpCon database
   * Displayed in Grid format
-  * Statuses are updatable from this screen
+  * Status can be updated from this screen
 
 
 ### Agent List Screen
@@ -40,16 +41,23 @@ The following information applies to defining machine groups:
 
 ![](../static/img/SM_machinegroups.png)
 
-### Agent/Machine Documentation
+### Practice Activity
 
-[Machines](https://help.smatechnologies.com/opcon/core/objects/machines)
+<div class="grid-item">
+<a class="button button--link button--block button--primary" href="practice-create-a-machine">Create a Machine</a>
+</div>
 
-[Managing Agents](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Agents)
+**<a href="practice-create-a-machine" target="_blank">Create a Machine</a>**
 
-[Performing Agent Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Agent-Status-Updates)
+### For more information
 
-[Machine Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MachineGroups/)
+The links below provide concept documentation for creating and using Machines in OpCon.
 
-### Practice
+**[Machines](https://help.smatechnologies.com/opcon/core/objects/machines)**
 
-<a href="practice-create-a-machine" target="_blank">Practice - Create a Machine</a>
+**[Managing Agents](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Agents)**
+
+**[Performing Agent Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Agent-Status-Updates)**
+
+**[Machine Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MachineGroups/)**
+

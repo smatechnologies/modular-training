@@ -61,12 +61,13 @@ OpCon utilizes **Dependencies** to define the run sequence of a process.
 * Prevents a Schedule from opening until all Daily instances of that Schedule from previous days are complete
 * Use **Late to Start** notices if this parameter is used
 
-### Dependency Documentation
+### Practice Activity
 
-[Job Dependencies Documentation](https://help.smatechnologies.com/opcon/core/job-components/job-dependencies)
+**<a href="practice-create-a-job-dependency" target="_blank">Practice - Create a Job Dependency</a>**
 
-[Viewing and Updating Job Dependencies Documentation](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MasterJobs/Viewing-And-Updating-Master-Jobs/Viewing-And-Updating-Job-Dependencies)
+### For More Information
 
-### Practice
+**[Job Dependencies Documentation](https://help.smatechnologies.com/opcon/core/job-components/job-dependencies)**
 
-<a href="practice-create-a-job-dependency" target="_blank">Practice - Create a Job Dependency</a>
+**[Viewing and Updating Job Dependencies Documentation](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MasterJobs/Viewing-And-Updating-Master-Jobs/Viewing-And-Updating-Job-Dependencies)**
+

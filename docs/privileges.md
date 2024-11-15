@@ -45,10 +45,10 @@ hide_title: 'true'
 
 ![](../static/img/Activities-83ab769adac3172955edc4c20d8f5b65.png)
 
-### Privileges Documentation
+### For More Information
 
-[Privileges](https://help.smatechnologies.com/opcon/core/administration/privileges)
+**[Privileges](https://help.smatechnologies.com/opcon/core/administration/privileges)**
 
-[Access Management](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Access-Management)
+**[Access Management](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Access-Management)**
 
-[Managing Privileges](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Managing-Roles-And-Privileges)
+**[Managing Privileges](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Managing-Roles-And-Privileges)**

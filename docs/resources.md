@@ -51,17 +51,19 @@ If all Resources are in use, SAM waits until a Resource is available before subm
 
 ![](../static/img/sm-sam-priority-job-screen-aceca794e79c4c6015fc79d56079e47a.png)
 
+### Practice Activity
 
-### Resource Documentation
+**<a href="practice-create-a-resource" target="_blank">Create a Resource</a>**
 
-[OpCon Objects - Resources](https://help.smatechnologies.com/opcon/core/objects/resources)
+### For More Information
 
-[Threshold/Resource Updates](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-updates)
+**[OpCon Objects - Resources](https://help.smatechnologies.com/opcon/core/objects/resources)**
 
-[Treshold/Resource Dependencies](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-dependencies)
+**[Threshold/Resource Updates](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-updates)**
 
-[Solution Manager - Resources](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Resources/)
+**[Treshold/Resource Dependencies](https://help.smatechnologies.com/opcon/core/job-components/threshold-resource-dependencies)**
 
-### Practice
+**[Solution Manager - Resources](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Resources/)**
 
-<a href="practice-create-a-resource" target="_blank">Practice - Create a Resource</a>
+
+

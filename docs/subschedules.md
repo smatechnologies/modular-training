@@ -90,16 +90,16 @@ This solution simplifies Frequencies definitions
 
 ![](../static/img/sm-subschedule-details-job-summary-f610413325f9a937aaa52e9277e50a72.png)
 
-### SubSchedules Documentation
+### Practice Activity
 
-[SubSchedules and Container Jobs](https://help.smatechnologies.com/opcon/core/operations/containers)
+**<a href="practice-subschedules" target="_blank">SubSchedules</a>**
 
-[Container Job Type](https://help.smatechnologies.com/opcon/core/job-types/container)
+### For More Information
 
-[Viewing SubSchedules in Canvas](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Studio/Canvas/Viewing-Master-Schedules/#subschedules)
+**[SubSchedules and Container Jobs](https://help.smatechnologies.com/opcon/core/operations/containers)**
 
-[SubSchedule Names](https://help.smatechnologies.com/opcon/core/operations/schedule-names#subschedules)
+**[Container Job Type](https://help.smatechnologies.com/opcon/core/job-types/container)**
 
-### Practice
+**[Viewing SubSchedules in Canvas](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Studio/Canvas/Viewing-Master-Schedules/#subschedules)**
 
-<a href="practice-subschedules" target="_blank">Practice - SubSchedules</a>
+**[SubSchedule Names](https://help.smatechnologies.com/opcon/core/operations/schedule-names#subschedules)**

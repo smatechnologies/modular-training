@@ -50,10 +50,10 @@ Right-Click Jobs and available actions appear
 ![alt text](../static/img/Picture78-b6f3bd6ddccee07da5c701132909e68d.png)
 
 
-### Status Documentation
+### For More Information
 
-[Schedule Status Changes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Schedule-Status-Changes)
+**[Schedule Status Changes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Schedule-Status-Changes)**
 
-[Job Status Changes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Job-Status-Changes)
+**[Job Status Changes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Job-Status-Changes)**
 
-[Bulk Job Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Bulk-Job-Status-Updates-Schedule-Level)
+**[Bulk Job Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Bulk-Job-Status-Updates-Schedule-Level)**

@@ -41,13 +41,14 @@ hide_title: 'true'
 * Multiple Builds can be bundled and tracked as a group
 * The bundle can be expanded to view and monitor the status of each Build
 
-### Schedule Build Documentation
+### Practice Activity
 
-[Building Daily Schedules](https://help.smatechnologies.com/opcon/core/operations/building-schedules)
+**<a href="practice-build-a-schedule" target="_blank">Build a Schedule</a>**
 
-[Schedule Build Log](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Schedules#schedule-build-log)
+### For More Information
+
+**[Building Daily Schedules](https://help.smatechnologies.com/opcon/core/operations/building-schedules)**
+
+**[Schedule Build Log](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Schedules#schedule-build-log)**
 
 
-### Practice
-
-<a href="practice-build-a-schedule" target="_blank">Practice - Build a Schedule</a>

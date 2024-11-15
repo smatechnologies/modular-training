@@ -104,18 +104,19 @@ A Script with Cross References cannot be deleted
 * **Arguments** – Enter the parameter(s) passed to Script (if needed)
 * **Working Dir.** – Working Directory (starting directory) for Script
 
-### Scripts Documentation
+### Practice Activity
 
-[Embedded Scripts](https://help.smatechnologies.com/opcon/core/automation-concepts/embedded-scripts)
+**<a href="practice-scripts" target="_blank">Embedded Scripts</a>**
 
-[Managing Scripts](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Scripts)
+### For More Information
 
-[Managing Script Versions](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Versions)
+**[Embedded Scripts](https://help.smatechnologies.com/opcon/core/automation-concepts/embedded-scripts)**
 
-[Managing Script Types](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Types)
+**[Managing Scripts](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Scripts)**
 
-[Managing Script Runners](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Runners)
+**[Managing Script Versions](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Versions)**
 
-### Practice
+**[Managing Script Types](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Types)**
 
-<a href="practice-scripts" target="_blank">Practice - Embedded Scripts</a>
+**[Managing Script Runners](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Scripts/Managing-Script-Runners)**
+

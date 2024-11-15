@@ -50,14 +50,14 @@ Roles are used to maintain Privileges for multiple User Accounts
 * Further specifications for LDAP Setup can be found in User Help
 
 
-### User Accounts Documentation
+### For More Information
 
-[User Accounts](https://help.smatechnologies.com/opcon/core/administration/user-accounts)
+**[User Accounts](https://help.smatechnologies.com/opcon/core/administration/user-accounts)**
 
-[Roles](https://help.smatechnologies.com/opcon/core/administration/roles)
+**[Roles](https://help.smatechnologies.com/opcon/core/administration/roles)**
 
-[Access Management](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Access-Management)
+**[Access Management](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Access-Management)**
 
-[Managing Users](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Users/Managing-Users)
+**[Managing Users](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Users/Managing-Users)**
 
-[Management Roles](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Managing-Roles-And-Privileges)
+**[Management Roles](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Managing-Roles-And-Privileges)**

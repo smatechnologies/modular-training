@@ -46,13 +46,13 @@ hide_title: 'true'
 
 ![](../static/img/log_archives.png)
 
-### Log Documentation
+### For More Information
 
-[List Application Logs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Log-Files)
+[List Application Logs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Log-Files)****
 
-[List Schedule Build Logs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Schedule-Builds)
+**[List Schedule Build Logs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Schedule-Builds)**
 
-[List Archive Files](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Archive-Files)
+**[List Archive Files](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/List-Archive-Files)**
 
-[Log File Details](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/Log-File-Details)
+**[Log File Details](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Logs/Log-File-Details)**
 

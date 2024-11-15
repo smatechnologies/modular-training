@@ -41,13 +41,13 @@ hide_title: 'true'
 
 #### Calendar Associations
 
+### Practice Activity
 
-### Calendar Documentation
+**<a href="practice-calendars" target="_blank">Calendars</a>**
 
-[Calendars](https://help.smatechnologies.com/opcon/core/objects/calendars)
+### For More Information
 
-[Managing Calendars](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Managing-Calendars)
+**[Calendars](https://help.smatechnologies.com/opcon/core/objects/calendars)**
 
-### Practice
+**[Managing Calendars](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/Managing-Calendars)**
 
-<a href="practice-calendars" target="_blank">Practice - Calendars</a>

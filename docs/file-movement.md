@@ -18,8 +18,8 @@ hide_title: 'true'
 ![](../static/img/Job_Subtypes_SM-368840dbfc5caf0448bd727505835bcb.png) 
 
 
-### File Movement Documentation
+### For More Information
 
-[Windows Job Sub-Types](https://help.smatechnologies.com/opcon/core/job-types/windows#windows-job-sub-types)
+**[Windows Job Sub-Types](https://help.smatechnologies.com/opcon/core/job-types/windows#windows-job-sub-types)**
 
-[Defining Command: File Job Types](https://help.smatechnologies.com/opcon/core/Files/UI/Enterprise-Manager/Job-Type-Management/#defining-command-file-copy-job-details)
+**[Defining Command: File Job Types](https://help.smatechnologies.com/opcon/core/Files/UI/Enterprise-Manager/Job-Type-Management/#defining-command-file-copy-job-details)**

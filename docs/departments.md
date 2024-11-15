@@ -48,8 +48,8 @@ _Three Steps to setting up Departments in OpCon_:
 
 ![](../static/img/sm-departments-job-definition-91467ab5db53fdf9ca865d9f50d155f1.png)
 
-### Departments Documentation
+### For More Information
 
-[Departments](https://help.smatechnologies.com/opcon/core/objects/departments)
+**[Departments](https://help.smatechnologies.com/opcon/core/objects/departments)**
 
-[Roles - Department Activities](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Modifying-Roles-And-Privileges/Department-Activities)
+**[Roles - Department Activities](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/AccessManagement/Roles/Modifying-Roles-And-Privileges/Department-Activities)**

@@ -21,14 +21,15 @@ OpCon needs some basic information to run a process:
 * Only Job Types configured within your OpCon Environment are shown
 * Once a Job Type is selected, parameters specific to the chosen technical environment are displayed
 
-### Job Documentation
+### Practice Activity
+
+**<a href="practice-create-a-job" target="_blank">Create a Job</a>**
+
+### For More Information
 
 The links below provide concept documentation for creating and using Jobs in OpCon.
 
-[Adding Master Jobs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MasterJobs/Adding-Master-Jobs)
+**[Adding Master Jobs](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/MasterJobs/Adding-Master-Jobs)**
 
-[Job Documentation](https://help.smatechnologies.com/opcon/core/objects/jobs)
+**[Job Documentation](https://help.smatechnologies.com/opcon/core/objects/jobs)**
 
-### Practice
-
-<a href="practice-create-a-job" target="_blank">Practice - Create a Job</a>

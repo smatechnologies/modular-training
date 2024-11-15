@@ -12,12 +12,15 @@ hide_title: 'true'
 
 ![](../static/img/null-job-details.png)
 
-### Null Jobs Documentation
+### Practice Activity
 
-[Null Jobs](https://help.smatechnologies.com/opcon/core/automation-concepts/null-jobs)
+**<a href="practice-create-a-null-job" target="_blank">Create a Null Job</a>**
 
-[Null Job Details](https://help.smatechnologies.com/opcon/core/job-types/null)
+### For More Information
 
-### Practice
+The links below provide concept documentation for creating and using Null Jobs in OpCon.
 
-<a href="practice-create-a-null-job" target="_blank">Practice - Create a Null Job</a>
+**[Null Jobs](https://help.smatechnologies.com/opcon/core/automation-concepts/null-jobs)**
+
+**[Null Job Details](https://help.smatechnologies.com/opcon/core/job-types/null)**
+

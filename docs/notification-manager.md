@@ -30,21 +30,21 @@ The basic types of notifications include Windows Event Log, Email (SMTP), Networ
 
 ![](../static/img/sm-notification-triggers-manage-groups-e3785742818952e046890940caff644f.png)
 
+### Practice Activity
 
-### Notification Documentation
+**<a href="practice-notification-manager" target="_blank">Notification Manager</a>**
 
-[Event Notification](https://help.smatechnologies.com/opcon/core/notifications/Components)
+### For More Information
 
-[Notification Triggers](https://help.smatechnologies.com/opcon/core/notifications/Notification-Triggers)
+**[Event Notification](https://help.smatechnologies.com/opcon/core/notifications/Components)**
 
-[Notification Configuration](https://help.smatechnologies.com/opcon/core/notifications/Notification-Configuration)
+**[Notification Triggers](https://help.smatechnologies.com/opcon/core/notifications/Notification-Triggers)**
 
-[Notification Categories](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationCategories/)
+**[Notification Configuration](https://help.smatechnologies.com/opcon/core/notifications/Notification-Configuration)**
 
-[Notification Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationGroups/)
+**[Notification Categories](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationCategories/)**
 
-[Solution Manager - Notification Triggers](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationTriggers/)
+**[Notification Groups](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationGroups/)**
 
-### Practice
+**[Solution Manager - Notification Triggers](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Library/NotificationTriggers/)**
 
-<a href="practice-notification-manager" target="_blank">Practice - Notification Manager</a>

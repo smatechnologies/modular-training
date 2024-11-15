@@ -94,18 +94,18 @@ When a Job is selected with a right-click several options are made available in 
 
 ![](../static/img/Picture74-6f0202410e79f9a7b9d35f2c13cb2586.png)
 
-### Operations Documentation
+### For More Information
 
-[Operations - Daily Processes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Daily-Processes)
+**[Operations - Daily Processes](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Daily-Processes)**
 
-[Operations - Managing Schedules](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Schedules)
+**[Operations - Managing Schedules](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Managing-Schedules)**
 
-[Operations - Agent Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Agent-Status-Updates)
+**[Operations - Agent Status Updates](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Performing-Agent-Status-Updates)**
 
-[Operations - PERT View](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Using-PERT-View)
+**[Operations - PERT View](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Using-PERT-View)**
 
-[Operations - View Job Output](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Viewing-Job-Output)
+**[Operations - View Job Output](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Viewing-Job-Output)**
 
-[Operations - Accessing Job Summary](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Accessing-Job-Summary)
+**[Operations - Accessing Job Summary](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Accessing-Job-Summary)**
 
-[Operations - Accessing Job Executions History](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Accessing-Job-Executions-History)
+**[Operations - Accessing Job Executions History](https://help.smatechnologies.com/opcon/core/Files/UI/Solution-Manager/Accessing-Job-Executions-History)**

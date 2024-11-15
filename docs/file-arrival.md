@@ -64,16 +64,18 @@ The file being searched in the table below for by the File Arrival job resides i
 			* This will loop through all 5 files
 :::
 
-### File Arrival Documentation
+### Practice Activity
 
-[File Arrival](https://help.smatechnologies.com/opcon/agents/windows/advanced-features/file-arrival)
+**<a href="practice-file-arrival" target="_blank">File Arrival</a>**
 
-[Defining Job Action: File Arrival Job Details](https://help.smatechnologies.com/opcon/core/Files/UI/Enterprise-Manager/Job-Type-Management/#defining-job-action-file-arrival-job-details-1)
+### For More Information
 
-[Fields for Windows File Arrival](https://help.smatechnologies.com/opcon/core/job-types/windows#fields-for-file-arrival)
+**[File Arrival](https://help.smatechnologies.com/opcon/agents/windows/advanced-features/file-arrival)**
 
-[UNIX File Activity Detection Daemon](https://help.smatechnologies.com/opcon/agents/unix/daemon/file-activity-detection-daemon)
+**[Defining Job Action: File Arrival Job Details](https://help.smatechnologies.com/opcon/core/Files/UI/Enterprise-Manager/Job-Type-Management/#defining-job-action-file-arrival-job-details-1)**
 
-### Practice
+**[Fields for Windows File Arrival](https://help.smatechnologies.com/opcon/core/job-types/windows#fields-for-file-arrival)**
 
-[![File Arrival](../static/img/file-arrival.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/Eatr4YcXitNArCGfw5qq-aYBtpjnudcmGkphAxCrgFDIVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RgwHon)
+**[UNIX File Activity Detection Daemon](https://help.smatechnologies.com/opcon/agents/unix/daemon/file-activity-detection-daemon)**
+
+
