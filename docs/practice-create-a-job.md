@@ -38,4 +38,4 @@ timeout /t 10
 
 ### Video Walkthrough
 
-[![Create a Job](../static/img/create-a-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/rweesner_smatechnologies_com/EeAwW_dv9CVMldkzxBaZfeIBL1vrCEmYChpQQMAFCdq43w?e=IbHNDJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Create a Job](../static/img/create-a-job.png)](https://sma1980-my.sharepoint.com/:v:/g/personal/roy_weesner_continuous_com/EeAwW_dv9CVMldkzxBaZfeIBL1vrCEmYChpQQMAFCdq43w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=W1ti0g)
